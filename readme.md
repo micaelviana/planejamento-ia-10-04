@@ -1,3 +1,12 @@
+Integrantes:
+Allan Carvalho de Aguiar
+Bianka Vasconcelos
+Isabelly Rohana
+Luã Souza
+Micael Viana
+Vinicius Chagas
+
+
 O problema ocorre porque o predicado base prolog
 
 ```prolog
